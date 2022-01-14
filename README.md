@@ -1,7 +1,4 @@
-- 👋 Hi, I’m <b>@ochom</b>
-- 👀 I’m a software developer with interest in web and mobile application development
-- 🌱 I’m currently learning how different web development frameworks like django, laravel and spring approach web development
-- 💞️ I’m looking to collaborate on django, react, java and codeigniter projects
+- 👋 Hi, I’m <b>@ochom</b>, a Go, Java and Nodejs enthusiast
 - 📫 You can rich me via email: ochomrichard752@gmail.com or via mobile +254708113456
 
 <!---
