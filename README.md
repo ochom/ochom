@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <b>@ochom</b>, a Go, Java and Nodejs enthusiast
+- 👋 Hi, I’m <b>@ochom</b>, a Go (Golang) & Java Developer
 - 📫 You can rich me via email: ochomrichard752@gmail.com or via mobile +254708113456
 
 <!---
